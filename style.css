@@ -24,3 +24,7 @@ h1{color:grey;font-family:verdana}
 td {
     padding: 5px 10px;
 }
+
+b {
+    background-color: yellow;
+}
